@@ -9,7 +9,7 @@
 
 *I have a passion for learning new skills, and testing my abilities constantly, furthering my knowledge and expertise to where I can take on any project with ease.*
 
-## What can I do?
+## What can I do? 👾
 
 - **Python**
 - **JavaScript** (Node.js, React.js)
@@ -18,7 +18,9 @@
 - **Advanced SQL**
 - **System Administration**
 
-## What am I up to?
+## What am I up to? 💻
 
-- Focusing on my classes this semester, which are based on front end development using **Java**, as well as analysing systems during development.
-- Working part-time at **Sports Direct** to keep me social and active and away from my screen 😂.
+- Developing different systems to use on minecraft servers when hired by clients.
+- Creating discord bots to perform unique functions for clients.
+- Focusing on my classes this semester, which are on front end development using **Java**, as well as systems analysis during development.
+- Working part-time at **Sports Direct** to keep me social and active and away from my screen 😂
