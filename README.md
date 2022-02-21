@@ -1,14 +1,11 @@
-#### Hey! I'm Marcus 😎
+### Hey! I'm Marcus 😎
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-e4405f?style=for-the-badge&logo=Twitter)](https://www.twitter.com/_Lotho_)\n
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&color=blueviolet)](https://www.instagram.com/markxhewson)\n
-[![Discord Badge](https://img.shields.io/badge/-Discord-e4405f?style=for-the-badge&logo=Discord&color=important)](marcuz#9158)\n
-[![Github Badge](https://img.shields.io/badge/-Github-e4405f?style=for-the-badge&logo=Github&color=successs)](marcuz#9158)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-e4405f?style=for-the-badge&logo=Twitter)](https://www.twitter.com/_Lotho_) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&color=blueviolet)](https://www.instagram.com/markxhewson) 
+[![Discord Badge](https://img.shields.io/badge/-Discord-e4405f?style=for-the-badge&logo=Discord&color=important)](marcuz#9158) 
+[![Github Badge](https://img.shields.io/badge/-Github-e4405f?style=for-the-badge&logo=Github&color=successs)](marcuz#9158) 
 
-
-### Hi there 👋
-
-**markxhewson/markxhewson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm
 
 Here are some ideas to get you started:
 
