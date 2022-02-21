@@ -9,7 +9,7 @@
 
 *I have a passion for learning new skills, and testing my abilities constantly, furthering my knowledge and expertise to where I can take on any project with ease.*
 
-*I love to take on new projects! Contact me @ marcuz#9158 on Discord!*
+*I love to take on new projects! <ins>Contact me @ **marcuz#9158**</ins> on Discord!*
 
 ## What can I do? 👾
 
