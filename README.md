@@ -22,5 +22,5 @@
 
 - Developing different systems to use on minecraft servers when hired by clients.
 - Creating discord bots to perform unique functions for clients.
-- Focusing on my classes this semester, which are on front end development using **Java**, as well as systems analysis during development.
+- Focusing on my semester classes, which are on front end development using **Java**, as well as systems analysis during development.
 - Working part-time at **Sports Direct** to keep me social and active and away from my screen 😂
