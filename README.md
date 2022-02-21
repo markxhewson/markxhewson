@@ -9,7 +9,7 @@
 
 *I have a passion for learning new skills, and testing my abilities constantly, furthering my knowledge and expertise to where I can take on any project with ease.*
 
-### What can I do?
+## What can I do?
 
 - **Python**
 - **JavaScript** (Node.js, React.js)
