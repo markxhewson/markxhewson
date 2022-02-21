@@ -11,18 +11,17 @@
 
 ### What can I do?
 
-- **Python**
+> **Python**
 
-- **JavaScript** (Node.js, React.js)
+> **JavaScript** (Node.js, React.js)
 
-- **Java**
+> **Java**
 
-- **HTML & CSS**
+> **HTML & CSS**
 
-- **Advanced SQL**
+> **Advanced SQL**
 
-- **System Administration**
-
+> **System Administration**
 
 Here are some ideas to get you started:
 
