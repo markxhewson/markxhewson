@@ -12,10 +12,15 @@
 ### What can I do?
 
 > **Python**
+
 > **JavaScript** (Node.js, React.js)
+
 > **Java**
+
 > **HTML & CSS**
+
 > **Advanced SQL**
+
 > **System Administration**
 
 Here are some ideas to get you started:
