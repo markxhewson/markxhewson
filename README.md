@@ -3,6 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-e4405f?style=for-the-badge&logo=Twitter)](https://www.twitter.com/_Lotho_)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&color=blueviolet)](https://www.instagram.com/markxhewson)
 [![Discord Badge](https://img.shields.io/badge/-Discord-e4405f?style=for-the-badge&logo=Discord&color=important)](marcuz#9158)
+[![Github Badge](https://img.shields.io/badge/-Github-e4405f?style=for-the-badge&logo=Github&color=successs)](marcuz#9158)
 
 
 ### Hi there 👋
