@@ -3,11 +3,20 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-e4405f?style=for-the-badge&logo=Discord&color=important)](marcuz#9158) 
 [![Github Badge](https://img.shields.io/badge/-Github-e4405f?style=for-the-badge&logo=Github&color=successs)](marcuz#9158) 
 
-## Hey! I'm Marcus 😎 ![](https://visitor-badge.glitch.me/badge?page_id=markxhewson.markxhewson)
+## Hey! I'm Marcus 😎
 
 *I'm an aspiring Software Engineer, currently studying at Northumbria University in England for a **Computer Science Bsc (Hons)** Degree.*
 
-*I have a passion for all types of projects, specifically **backend development**, where I believe I excel best.*
+*I have a passion for learning new skills, and testing my abilities constantly, furthering my knowledge and expertise to where I can take on any project with ease.*
+
+### What can I do?
+
+> **Python**
+> **JavaScript** (Node.js, React.js)
+> **Java**
+> **HTML & CSS**
+> **Advanced SQL**
+> **System Administration**
 
 Here are some ideas to get you started:
 
