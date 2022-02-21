@@ -1,7 +1,7 @@
 #### Hey! I'm Marcus 😎
 
-[![Twitter Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Twitter&logoColor=white)](https://www.twitter.com/_Lotho_)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/markxhewson)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-e4405f?style=for-the-badge&logo=Twitter)](https://www.twitter.com/_Lotho_)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&color=blueviolet](https://www.instagram.com/markxhewson)
 [![Discord](https://img.shields.io/badge/Discord-Join!-6a0dad)](marcuz#9158)
 
 
