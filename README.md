@@ -3,10 +3,11 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-e4405f?style=for-the-badge&logo=Discord&color=important)](marcuz#9158) 
 [![Github Badge](https://img.shields.io/badge/-Github-e4405f?style=for-the-badge&logo=Github&color=successs)](marcuz#9158) 
 
-## Hey! I'm Marcus 😎
+## Hey! I'm Marcus 😎 ![](https://visitor-badge.glitch.me/badge?page_id=markxhewson.markxhewson)
 
-> *I'm an aspiring Software Engineer, currently studying at Northumbria University in England for a **Computer Science Bsc (Hons)** Degree.*
-> *I have a passion for all types of projects, specifically **backend development**, where I believe I excel best.*
+*I'm an aspiring Software Engineer, currently studying at Northumbria University in England for a **Computer Science Bsc (Hons)** Degree.*
+
+*I have a passion for all types of projects, specifically **backend development**, where I believe I excel best.*
 
 Here are some ideas to get you started:
 
