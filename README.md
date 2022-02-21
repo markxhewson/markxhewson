@@ -1,6 +1,7 @@
 ####Hey! I'm Marcus 😎
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)(https://www.instagram.com/markxhewson)]
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/markxhewson)
+[![Discord](https://img.shields.io/badge/Discord-Join!-6a0dad)](marcuz#9158)
 
 
 ### Hi there 👋
