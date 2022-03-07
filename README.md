@@ -18,6 +18,7 @@
 - **Java**
 - **HTML & CSS**
 - **Advanced SQL**
+- **Redis**
 - **System Administration**
 
 ## What am I up to? 💻
