@@ -13,6 +13,10 @@
 
 *I'm looking forward to collaborating with you and contributing to your project's success!*
 
+## What am I currently doing?
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/676876290078277634)](https://discord.com/users/676876290078277634)
+
 ## What can I do? 👾
 
 - **Python**
@@ -22,9 +26,3 @@
 - **SQL & NoSQL**
 - **Redis**
 - **System Administration**
-
-## What am I up to? 💻
-
-- Developing different systems for clients in my freelancing work.
-- Focusing on my third-year classes at University, which are on backend Web Development, as well as Cloud API Integration.
-- Working part-time to keep an active social life.
